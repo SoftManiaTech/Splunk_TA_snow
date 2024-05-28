@@ -1,0 +1,27 @@
+[app/install/install_source_checksum]
+version = 9.1.2
+modtime = 1708767873.398021400
+
+[splunk_ta_snow_settings/filter_parameter_migration]
+owner = admin
+version = 9.1.2
+modtime = 1708767878.430675200
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Splunk_TA_snow%23configs%2Fconf-splunk_ta_snow_account%3ASoftMania%60%60splunk_cred_sep%60%601%3A]
+owner = admin
+version = 9.1.2
+modtime = 1708767963.855153700
+
+[passwords/credential%3A__REST_CREDENTIAL__%23Splunk_TA_snow%23configs%2Fconf-splunk_ta_snow_account%3ASoftMania%60%60splunk_cred_sep%60%602%3A]
+owner = admin
+version = 9.1.2
+modtime = 1708767963.900063200
+
+[splunk_ta_snow_account/SoftMania]
+owner = admin
+version = 9.1.2
+modtime = 1708767963.947005500
+
+[inputs/snow%3A%2F%2Fincident]
+version = 9.1.2
+modtime = 1708768018.053398600
